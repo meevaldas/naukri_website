@@ -1,0 +1,2110 @@
+{
+	"noOfJobs": 14470,
+	"clusters": {
+		"salaryRange": [
+			{
+				"id": "0to3",
+				"count": 3034,
+				"label": "0-3 Lakhs"
+			},
+			{
+				"id": "3to6",
+				"count": 6762,
+				"label": "3-6 Lakhs"
+			},
+			{
+				"id": "6to10",
+				"count": 8220,
+				"label": "6-10 Lakhs"
+			},
+			{
+				"id": "10to15",
+				"count": 5398,
+				"label": "10-15 Lakhs"
+			},
+			{
+				"id": "15to25",
+				"count": 2972,
+				"label": "15-25 Lakhs"
+			},
+			{
+				"id": "25to50",
+				"count": 938,
+				"label": "25-50 Lakhs"
+			},
+			{
+				"id": "50to75",
+				"count": 103,
+				"label": "50-75 Lakhs"
+			},
+			{
+				"id": "75to100",
+				"count": 38,
+				"label": "75-100 Lakhs"
+			},
+			{
+				"id": "100to500",
+				"count": 18,
+				"label": "1-5 Cr"
+			},
+			{
+				"id": "501",
+				"count": 1,
+				"label": "5+ Cr"
+			}
+		],
+		"wfhType": [
+			{
+				"id": "0",
+				"count": 448667,
+				"label": "Work from office"
+			},
+			{
+				"id": "2",
+				"count": 14470,
+				"label": "Remote"
+			},
+			{
+				"id": "3",
+				"count": 11152,
+				"label": "Hybrid"
+			},
+			{
+				"id": "1",
+				"count": 1476,
+				"label": "Temp. WFH due to covid"
+			}
+		],
+		"topGroupId": [
+			{
+				"id": "172058",
+				"count": 77,
+				"label": "Tata Capital"
+			},
+			{
+				"id": "9558",
+				"count": 51,
+				"label": "Nagarro"
+			},
+			{
+				"id": "315118",
+				"count": 30,
+				"label": "Datamatics"
+			},
+			{
+				"id": "957140",
+				"count": 17,
+				"label": "Bahwan CyberTek"
+			},
+			{
+				"id": "1422",
+				"count": 16,
+				"label": "Randstad"
+			},
+			{
+				"id": "387078",
+				"count": 16,
+				"label": "Newt Global"
+			},
+			{
+				"id": "4623263",
+				"count": 16,
+				"label": "Replicon"
+			},
+			{
+				"id": "144830",
+				"count": 15,
+				"label": "Paytm"
+			},
+			{
+				"id": "709704",
+				"count": 15,
+				"label": "NTT DATA Business Solutions Private Limited"
+			},
+			{
+				"id": "4635615",
+				"count": 13,
+				"label": "Rackspace Technology"
+			},
+			{
+				"id": "1180698",
+				"count": 10,
+				"label": "CSG International"
+			},
+			{
+				"id": "2114",
+				"count": 9,
+				"label": "Tech Mahindra"
+			},
+			{
+				"id": "4125264",
+				"count": 9,
+				"label": "Sumtotal Systems"
+			},
+			{
+				"id": "4594137",
+				"count": 9,
+				"label": "Espire Infolabs"
+			},
+			{
+				"id": "530898",
+				"count": 9,
+				"label": "IGT Solutions"
+			}
+		],
+		"employement": [
+			{
+				"id": "1",
+				"count": 12525,
+				"label": "Company Jobs"
+			},
+			{
+				"id": "2",
+				"count": 1945,
+				"label": "Consultant Jobs"
+			}
+		],
+		"featuredCompanies": [
+			{
+				"id": "100007",
+				"count": 2,
+				"label": "Tech Mahindra",
+				"url": "/tech-mahindra-jobs-careers-1066?keyword=remote&src=fcc&companyId=100007"
+			},
+			{
+				"id": "29679",
+				"count": 1,
+				"label": "Fiserv",
+				"url": "/job-listings-senior-business-manager-sales-gbs-fiserv-india-pvt-ltd-maharashtra-5-to-10-years-080623908950"
+			},
+			{
+				"id": "5271592",
+				"count": 10,
+				"label": "Alorica",
+				"url": "/alorica-jobs-careers-4870436?keyword=remote&src=fcc&companyId=5271592"
+			},
+			{
+				"id": "3122282",
+				"count": 5,
+				"label": "AffinityX",
+				"url": "/affinityx-jobs-careers-770390?keyword=remote&src=fcc&companyId=3122282"
+			},
+			{
+				"id": "759389",
+				"count": 5,
+				"label": "Arvind Limited",
+				"url": "/arvind-jobs-careers-759389?keyword=remote&src=fcc&companyId=759389"
+			},
+			{
+				"id": "15001",
+				"count": 1,
+				"label": "Gavs Technologies",
+				"url": "/job-listings-informatica-administrator-est-hours-five-thirty-pm-two-thirty-am-gavs-technologies-chennai-tamil-nadu-3-to-6-years-100623003100"
+			},
+			{
+				"id": "314023",
+				"count": 5,
+				"label": "IQVIA",
+				"url": "/iqvia-jobs-careers-314023?keyword=remote&src=fcc&companyId=314023"
+			},
+			{
+				"id": "144993",
+				"count": 2,
+				"label": "Mphasis",
+				"url": "/mphasis-jobs-careers-6481?keyword=remote&src=fcc&companyId=144993"
+			},
+			{
+				"id": "93084",
+				"count": 4,
+				"label": "The Hackett Group",
+				"url": "/the-hackett-group-jobs-careers-93084?keyword=remote&src=fcc&companyId=93084"
+			},
+			{
+				"id": "2710958",
+				"count": 1,
+				"label": "The Judge Group",
+				"url": "/job-listings-sr-embedded-software-engineer-arm-remote-work-immediate-joiner-the-judge-group-bangalore-bengaluru-karnataka-4-to-9-years-140623009631"
+			},
+			{
+				"id": "24468",
+				"count": 1,
+				"label": "Coforge",
+				"url": "/job-listings-coforge-hiring-for-voice-process-for-travel-domain-freshers-wfa-coforge-gurgaon-gurugram-haryana-0-to-0-years-070623009957"
+			},
+			{
+				"id": "4799432",
+				"count": 3,
+				"label": "Epiq Systems",
+				"url": "/epiq-systems-jobs-careers-2701344?keyword=remote&src=fcc&companyId=4799432"
+			}
+		],
+		"business_size": [
+			{
+				"id": "211",
+				"count": 1585,
+				"label": "Corporate"
+			},
+			{
+				"id": "213",
+				"count": 1280,
+				"label": "Foreign MNC"
+			},
+			{
+				"id": "217",
+				"count": 434,
+				"label": "Indian MNC"
+			},
+			{
+				"id": "62",
+				"count": 249,
+				"label": "Startup"
+			},
+			{
+				"id": "63",
+				"count": 15,
+				"label": "Others"
+			},
+			{
+				"id": "60",
+				"count": 9,
+				"label": "MNC"
+			},
+			{
+				"id": "215",
+				"count": 6,
+				"label": "Govt/PSU"
+			}
+		],
+		"citiesGid": [
+			{
+				"id": "97",
+				"count": 1196,
+				"label": "Bangalore/Bengaluru"
+			},
+			{
+				"id": "9508",
+				"count": 1120,
+				"label": "Delhi / NCR"
+			},
+			{
+				"id": "17",
+				"count": 645,
+				"label": "Hyderabad/Secunderabad"
+			},
+			{
+				"id": "9509",
+				"count": 583,
+				"label": "Mumbai (All Areas)"
+			},
+			{
+				"id": "139",
+				"count": 525,
+				"label": "Pune"
+			},
+			{
+				"id": "183",
+				"count": 371,
+				"label": "Chennai"
+			},
+			{
+				"id": "220",
+				"count": 280,
+				"label": "Noida"
+			},
+			{
+				"id": "73",
+				"count": 192,
+				"label": "Gurgaon/Gurugram"
+			},
+			{
+				"id": "232",
+				"count": 180,
+				"label": "Kolkata"
+			},
+			{
+				"id": "51",
+				"count": 138,
+				"label": "Ahmedabad"
+			},
+			{
+				"id": "6",
+				"count": 98,
+				"label": "New Delhi"
+			},
+			{
+				"id": "134",
+				"count": 90,
+				"label": "Mumbai"
+			},
+			{
+				"id": "110",
+				"count": 72,
+				"label": "Kochi/Cochin"
+			},
+			{
+				"id": "173",
+				"count": 64,
+				"label": "Jaipur"
+			},
+			{
+				"id": "167",
+				"count": 47,
+				"label": "Mohali"
+			},
+			{
+				"id": "4",
+				"count": 43,
+				"label": "Chandigarh"
+			},
+			{
+				"id": "125",
+				"count": 36,
+				"label": "Indore"
+			},
+			{
+				"id": "65",
+				"count": 36,
+				"label": "Vadodara/Baroda"
+			},
+			{
+				"id": "9033",
+				"count": 33,
+				"label": "Saudi Arabia"
+			},
+			{
+				"id": "184",
+				"count": 28,
+				"label": "Coimbatore"
+			},
+			{
+				"id": "138",
+				"count": 25,
+				"label": "Navi Mumbai"
+			},
+			{
+				"id": "9028",
+				"count": 25,
+				"label": "Oman"
+			},
+			{
+				"id": "9044",
+				"count": 25,
+				"label": "United States (USA)"
+			},
+			{
+				"id": "155",
+				"count": 24,
+				"label": "Bhubaneswar"
+			},
+			{
+				"id": "216",
+				"count": 24,
+				"label": "Lucknow"
+			}
+		],
+		"functionalAreaGid": [
+			{
+				"id": "5",
+				"count": 5565,
+				"label": "Engineering - Software & QA"
+			},
+			{
+				"id": "14",
+				"count": 1605,
+				"label": "Sales & Business Development"
+			},
+			{
+				"id": "37",
+				"count": 879,
+				"label": "Other"
+			},
+			{
+				"id": "8",
+				"count": 758,
+				"label": "IT & Information Security"
+			},
+			{
+				"id": "3",
+				"count": 630,
+				"label": "Data Science & Analytics"
+			},
+			{
+				"id": "9",
+				"count": 597,
+				"label": "Marketing & Communication"
+			},
+			{
+				"id": "2",
+				"count": 574,
+				"label": "Customer Success, Service & Operations"
+			},
+			{
+				"id": "7",
+				"count": 486,
+				"label": "Human Resources"
+			},
+			{
+				"id": "19",
+				"count": 422,
+				"label": "Consulting"
+			},
+			{
+				"id": "15",
+				"count": 408,
+				"label": "UX, Design & Architecture"
+			},
+			{
+				"id": "6",
+				"count": 298,
+				"label": "Finance & Accounting"
+			},
+			{
+				"id": "36",
+				"count": 294,
+				"label": "Teaching & Training"
+			},
+			{
+				"id": "4",
+				"count": 267,
+				"label": "Engineering - Hardware & Networks"
+			},
+			{
+				"id": "12",
+				"count": 261,
+				"label": "Project & Program Management"
+			},
+			{
+				"id": "20",
+				"count": 248,
+				"label": "Content, Editorial & Journalism"
+			}
+		],
+		"ugCourseGid": [
+			{
+				"id": "9502",
+				"count": 11425,
+				"label": "Any Graduate"
+			},
+			{
+				"id": "12",
+				"count": 1953,
+				"label": "B.Tech/B.E."
+			},
+			{
+				"id": "9501",
+				"count": 586,
+				"label": "Graduation Not Required"
+			},
+			{
+				"id": "11",
+				"count": 530,
+				"label": "B.Sc"
+			},
+			{
+				"id": "4",
+				"count": 365,
+				"label": "BCA"
+			},
+			{
+				"id": "15",
+				"count": 328,
+				"label": "Diploma"
+			},
+			{
+				"id": "5",
+				"count": 195,
+				"label": "B.B.A/ B.M.S"
+			},
+			{
+				"id": "2",
+				"count": 181,
+				"label": "B.A"
+			},
+			{
+				"id": "6",
+				"count": 150,
+				"label": "B.Com"
+			},
+			{
+				"id": "10",
+				"count": 61,
+				"label": "B.Pharma"
+			},
+			{
+				"id": "9999",
+				"count": 33,
+				"label": "Other Graduate"
+			},
+			{
+				"id": "7",
+				"count": 32,
+				"label": "B.Ed"
+			},
+			{
+				"id": "14",
+				"count": 26,
+				"label": "MBBS"
+			}
+		],
+		"glbl_RoleCat": [
+			{
+				"id": "1028",
+				"count": 4677,
+				"label": "Software Development"
+			},
+			{
+				"id": "1167",
+				"count": 879,
+				"label": "Other"
+			},
+			{
+				"id": "1065",
+				"count": 796,
+				"label": "BD / Pre Sales"
+			},
+			{
+				"id": "1067",
+				"count": 442,
+				"label": "Retail & B2C Sales"
+			},
+			{
+				"id": "1027",
+				"count": 379,
+				"label": "Quality Assurance and Testing"
+			},
+			{
+				"id": "1018",
+				"count": 365,
+				"label": "Business Intelligence & Analytics"
+			},
+			{
+				"id": "1039",
+				"count": 342,
+				"label": "Recruitment & Talent Acquisition"
+			},
+			{
+				"id": "1082",
+				"count": 340,
+				"label": "IT Consulting"
+			},
+			{
+				"id": "1066",
+				"count": 317,
+				"label": "Enterprise & B2B Sales"
+			},
+			{
+				"id": "1048",
+				"count": 309,
+				"label": "Digital Marketing"
+			}
+		],
+		"pgCourseGid": [
+			{
+				"id": "9511",
+				"count": 8324,
+				"label": "Any Postgraduate"
+			},
+			{
+				"id": "13",
+				"count": 514,
+				"label": "MBA/PGDM"
+			},
+			{
+				"id": "14",
+				"count": 510,
+				"label": "MCA"
+			},
+			{
+				"id": "12",
+				"count": 452,
+				"label": "M.Tech"
+			},
+			{
+				"id": "9510",
+				"count": 368,
+				"label": "Post Graduation Not Required"
+			},
+			{
+				"id": "11",
+				"count": 348,
+				"label": "MS/M.Sc(Science)"
+			},
+			{
+				"id": "1",
+				"count": 118,
+				"label": "CA"
+			},
+			{
+				"id": "6",
+				"count": 79,
+				"label": "M.A"
+			},
+			{
+				"id": "16",
+				"count": 71,
+				"label": "PG Diploma"
+			},
+			{
+				"id": "15",
+				"count": 65,
+				"label": "Medical-MS/MD"
+			},
+			{
+				"id": "8",
+				"count": 49,
+				"label": "M.Com"
+			},
+			{
+				"id": "9999",
+				"count": 33,
+				"label": "Other Post Graduate"
+			}
+		],
+		"jobTags": [],
+		"industryTypeGid": [
+			{
+				"id": "109",
+				"count": 6368,
+				"label": "IT Services & Consulting"
+			},
+			{
+				"id": "110",
+				"count": 1249,
+				"label": "Software Product"
+			},
+			{
+				"id": "127",
+				"count": 1037,
+				"label": "Recruitment / Staffing"
+			},
+			{
+				"id": "126",
+				"count": 434,
+				"label": "Management Consulting"
+			},
+			{
+				"id": "102",
+				"count": 390,
+				"label": "BPO / Call Centre"
+			},
+			{
+				"id": "108",
+				"count": 373,
+				"label": "Internet"
+			},
+			{
+				"id": "133",
+				"count": 363,
+				"label": "Education / Training"
+			},
+			{
+				"id": "172",
+				"count": 319,
+				"label": "Advertising & Marketing"
+			},
+			{
+				"id": "113",
+				"count": 278,
+				"label": "Financial Services"
+			},
+			{
+				"id": "131",
+				"count": 269,
+				"label": "Medical Services / Hospital"
+			},
+			{
+				"id": "112",
+				"count": 253,
+				"label": "Banking"
+			},
+			{
+				"id": "132",
+				"count": 236,
+				"label": "Pharmaceutical & Life Sciences"
+			},
+			{
+				"id": "164",
+				"count": 220,
+				"label": "Engineering & Construction"
+			},
+			{
+				"id": "134",
+				"count": 200,
+				"label": "E-Learning / EdTech"
+			},
+			{
+				"id": "101",
+				"count": 149,
+				"label": "Analytics / KPO / Research"
+			}
+		]
+	},
+	"jobDetails": [
+		{
+			"title": "Medical Scribe / Process Executive || Location: Blr, Mum, Chn, Hyd",
+			"logoPath": "https://www.naukri.com/hotjobs/images/v3/randstad.gif",
+			"logoPathV3": "https://www.naukri.com/hotjobs/images/v3/randstad.gif",
+			"jobId": "060723008747",
+			"currency": "INR",
+			"footerPlaceholderLabel": "2 Days Ago",
+			"footerPlaceholderColor": "grey",
+			"companyName": "Randstad",
+			"isSaved": false,
+			"tagsAndSkills": "Clinical Research,Medical Transcription,medical terminology,medical summarization,communication skills,US healthcare,Medicine,Medical",
+			"placeholders": [
+				{
+					"type": "experience",
+					"label": "0-1 Yrs"
+				},
+				{
+					"type": "salary",
+					"label": "Not disclosed"
+				},
+				{
+					"type": "location",
+					"label": "Remote"
+				}
+			],
+			"companyId": 717,
+			"jdURL": "/job-listings-medical-scribe-process-executive-location-blr-mum-chn-hyd-randstad-bangalore-bengaluru-0-to-1-years-060723008747",
+			"staticUrl": "randstad-jobs-careers-717",
+			"jobDescription": "<p>We are looking for a <strong>Process</strong> <strong>Executive</strong> <strong>/ Medical Scribe </strong>for Randstad Client. Please go through the Job description and revert me back.<br /></p><br /><p><strong>Position: Process</strong> <strong>Executive / Medical Scribe </strong></p><p><strong>Duration: Permanent Role</strong> <br /><strong>Experience: 0 - 1 years</strong><br /><strong>Job Location: Bangalore / Mumbai / Pune / Gurgaon ( WFH ) </strong><br /><strong>Shift : Night Shift Only: 5:30 PM to 10:30 AM & No Rotational Shifts.</strong><br /></p><br /><br /><br /><p><strong>Note: </strong></p><p><strong>1 ) Please apply if you are into B. Pharma / M Pharma / Pharmacy / Medicine Background Only</strong></p><p><strong>2) Good Communication Skills </strong></p><p><strong>3) Knowledge of Medical Teminologies.</strong></p><br /><br /><br /><p><strong>JOB DESCRIPTION:</strong><br /></p><ol type=\"1\"><li>A Virtual Medical Scribe works asynchronous with a physician and their care team to complete documentation of clinic visits.</li><li>Specialists support healthcare providers and their patients by using an emerging technology platform to complete confidential medical documentation summaries of patient encounters.</li><li>SPE Agents save time for providers by delivering accurate documentation within hours of patient visits.</li><li>Documentation includes patient histories, exams, radiographic findings, assessments, and treatment plans. </li><li>Specialists make healthcare functional and efficient by allowing providers to keep their focus on their patients.</li><li>Candidates who are passionate about medicine and desire to impact the future of healthcare are desired.</li><li>Candidates should also be quick learners who can get up to speed with medical terminology to include anatomy and treatment modalities and strive for continual learning and improvement.</li><li>Successful candidates will be eager to learn new technology and be open to making changes as new technologies evolve.</li><li>Training will be provided through our training program.<br /></li></ol><p><strong>Required Qualifications/Experience :-</strong><br />• Required in a medical office, clinical or healthcare documentation or similar academic setting.<br />• Familiarity with medical terminology & medical summarization.<br />• Excellent English professional writing skills; including advanced proficiency in grammar and spelling.<br />• Excellent listening skills and ability to understand diverse accents and dialects of physicians, their staff, and<br />patients.<br />• Ability to work independently in a secure and private location with a reliable high-speed internet connection.<br />• Ability to participate in live video chat and screen sharing sessions for training.<br />• Experience with the Microsoft Office 365 or other cloud-based productivity tools.</p><br /><br /><br /><br /><br />",
+			"showMultipleApply": false,
+			"groupId": 1422,
+			"isTopGroup": 0,
+			"createdDate": 1688647797627,
+			"hiringFor": "Randstad India",
+			"mode": "jp"
+		},
+		{
+			"title": "Sr. Customer Service Executive- Voice Process",
+			"logoPath": "https://img.naukimg.com/logo_images/groups/v1/215164.gif",
+			"logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/215164.gif",
+			"jobId": "040723005638",
+			"jobType": "WALK IN",
+			"currency": "INR",
+			"footerPlaceholderLabel": "4 Days Ago",
+			"footerPlaceholderColor": "grey",
+			"companyName": "Teleperformance (TP)",
+			"isSaved": false,
+			"tagsAndSkills": "voice process,international voice process,customer service,us voice process,communication skills,Process,International voice,International",
+			"placeholders": [
+				{
+					"type": "date",
+					"label": "04 Jul - 12 Jul"
+				},
+				{
+					"type": "salary",
+					"label": "3-4 Lacs PA"
+				},
+				{
+					"type": "location",
+					"label": "Remote"
+				}
+			],
+			"companyId": 1141,
+			"jdURL": "/job-listings-sr-customer-service-executive-voice-process-teleperformance-tp-mumbai-all-areas-0-to-5-years-040723005638",
+			"staticUrl": "teleperformance-tp-jobs-careers-1141",
+			"ambitionBoxData": {
+				"Url": "https://www.ambitionbox.com/reviews/teleperformance-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+				"ReviewsCount": 13939,
+				"AggregateRating": "3.6",
+				"Title": "Teleperformance Reviews by Employees"
+			},
+			"jobDescription": "Work from Home Process. Only for <br><br>24 / 7 Shifts<br><br>Graduate fresher<br><br>Candidates should be flexible to travel till Malad location to pick their system provided my company<br><br>Preferred candidate profile <br><br>Applicant must have excellent communication skills in English (Written and Verbal) <br><br>HSC + 10 months experience",
+			"showMultipleApply": false,
+			"groupId": 215164,
+			"isTopGroup": 0,
+			"createdDate": 1688459433840,
+			"mode": "jp"
+		},
+		{
+			"title": "Life BA, Acord",
+			"logoPath": "https://www.naukri.com/hotjobs/images/v3/allegis_nov13.gif",
+			"logoPathV3": "https://www.naukri.com/hotjobs/images/v3/allegis_nov13.gif",
+			"jobId": "270623005909",
+			"currency": "INR",
+			"footerPlaceholderLabel": "2 Days Ago",
+			"footerPlaceholderColor": "grey",
+			"companyName": "Allegis Group",
+			"isSaved": false,
+			"tagsAndSkills": "Business Analyst,Accord,Acord,BA,life insurance,Business analysis,Insurance",
+			"placeholders": [
+				{
+					"type": "experience",
+					"label": "6-10 Yrs"
+				},
+				{
+					"type": "salary",
+					"label": "Not disclosed"
+				},
+				{
+					"type": "location",
+					"label": "Remote"
+				}
+			],
+			"companyId": 10698,
+			"jdURL": "/job-listings-life-ba-acord-allegis-group-bangalore-bengaluru-6-to-10-years-270623005909",
+			"staticUrl": "allegis-group-jobs-careers-10698",
+			"jobDescription": "Experience with creating ACORD Mapping based on Requirements <br><br>Should have outstanding knowledge in life insurance domain<br><br>Experience in Gathering requirements,Creating User stories,writing functional specifications,gaps analysis and providing estimates<br><br>Experience: 6 to 10 Years. <br><br>Experience with Life Insurance Assure Product or Product Accelerator is an added Advantage",
+			"showMultipleApply": false,
+			"groupId": 2861454,
+			"isTopGroup": 0,
+			"createdDate": 1688660099640,
+			"mode": "jp"
+		},
+		{
+			"title": "API Developer",
+			"logoPath": "https://img.naukri.com/logo_images/v3/676499.gif",
+			"logoPathV3": "https://img.naukri.com/logo_images/v3/676499.gif",
+			"jobId": "120523008684",
+			"currency": "INR",
+			"footerPlaceholderLabel": "1 Day Ago",
+			"footerPlaceholderColor": "green",
+			"companyName": "PwC Service Delivery Center",
+			"isSaved": false,
+			"tagsAndSkills": "Azure,dot net core,Sharepoint,.Net Core,Development,SQL,DoT,API",
+			"placeholders": [
+				{
+					"type": "experience",
+					"label": "6-11 Yrs"
+				},
+				{
+					"type": "salary",
+					"label": "Not disclosed"
+				},
+				{
+					"type": "location",
+					"label": "Remote"
+				}
+			],
+			"companyId": 676499,
+			"jdURL": "/job-listings-api-developer-pwc-service-delivery-center-bangalore-bengaluru-6-to-11-years-120523008684",
+			"staticUrl": "pwc-service-delivery-center-jobs-careers-676499",
+			"ambitionBoxData": {
+				"Url": "https://www.ambitionbox.com/reviews/pwc-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+				"ReviewsCount": 5430,
+				"AggregateRating": "3.7",
+				"Title": "PwC Reviews by Employees"
+			},
+			"jobDescription": "Enterprise app development experience",
+			"showMultipleApply": false,
+			"groupId": 8483159,
+			"isTopGroup": 0,
+			"createdDate": 1688708199326,
+			"mode": "jp"
+		},
+		{
+			"title": "Business Development Manager : Saarc ( Pearson VUE)",
+			"logoPath": "https://www.naukri.com/hotjobs/images/v3/pearson14.gif",
+			"logoPathV3": "https://www.naukri.com/hotjobs/images/v3/pearson14.gif",
+			"jobId": "070723005868",
+			"currency": "INR",
+			"footerPlaceholderLabel": "1 Day Ago",
+			"footerPlaceholderColor": "green",
+			"companyName": "Pearson",
+			"isSaved": false,
+			"tagsAndSkills": "Sales Strategy,Educational Sales,Closure,Government sales,Vue.js,Sales,Government relations,Liaison",
+			"placeholders": [
+				{
+					"type": "experience",
+					"label": "10-17 Yrs"
+				},
+				{
+					"type": "salary",
+					"label": "Not disclosed"
+				},
+				{
+					"type": "location",
+					"label": "Remote"
+				}
+			],
+			"companyId": 104678,
+			"jdURL": "/job-listings-business-development-manager-saarc-pearson-vue-pearson-bangalore-bengaluru-karnataka-10-to-17-years-070723005868",
+			"staticUrl": "pearson-jobs-careers-104678",
+			"ambitionBoxData": {
+				"Url": "https://www.ambitionbox.com/reviews/pearson-education-india-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+				"ReviewsCount": 343,
+				"AggregateRating": "4.2",
+				"Title": "Pearson Education India Reviews by Employees"
+			},
+			"jobDescription": "And we continually develop leading testing technologies that drive progress through essential credentials in virtually every industryfrom dermatology to driving,real estate to risk management,and everything in between<br><br> A bachelors or masters degree in Business Administration or a related field<br><br>Preferred markets operated in India / SAARC",
+			"showMultipleApply": false,
+			"groupId": 4618611,
+			"isTopGroup": 0,
+			"createdDate": 1688719477951,
+			"mode": "jp"
+		},
+		{
+			"title": "Job Description - Sr. Software Engineer (NodeJs) - Pan India",
+			"logoPath": "https://img.naukimg.com/logo_images/groups/v1/125596.gif",
+			"logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/125596.gif",
+			"jobId": "070723003560",
+			"currency": "INR",
+			"footerPlaceholderLabel": "1 Day Ago",
+			"footerPlaceholderColor": "green",
+			"companyName": "Trigent Software",
+			"isSaved": false,
+			"tagsAndSkills": "Rest,Node.Js,Web Services,Software,Web technologies,SR,Job Description,Pan",
+			"placeholders": [
+				{
+					"type": "experience",
+					"label": "6-10 Yrs"
+				},
+				{
+					"type": "salary",
+					"label": "Not disclosed"
+				},
+				{
+					"type": "location",
+					"label": "Remote"
+				}
+			],
+			"companyId": 728545,
+			"jdURL": "/job-listings-description-sr-software-engineer-nodejs-pan-india-trigent-software-bangalore-bengaluru-6-to-10-years-070723003560",
+			"staticUrl": "trigent-jobs-careers-166616",
+			"ambitionBoxData": {
+				"Url": "https://www.ambitionbox.com/reviews/trigent-software-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+				"ReviewsCount": 327,
+				"AggregateRating": "3.8",
+				"Title": "Trigent Software Reviews by Employees"
+			},
+			"jobDescription": "Job Type: Full Time <br><br>Minimum 6-8 years software programming experience . <br><br>Experience with agile software devlopment methodologies (scrum,kanban). <br><br>Experience with backend technologies - Node.js,Web Services (REST),MEAN Stack",
+			"showMultipleApply": false,
+			"groupId": 125596,
+			"isTopGroup": 0,
+			"createdDate": 1688734979455,
+			"mode": "jp"
+		},
+		{
+			"title": "Job Description - Principal DevOps Engineer - Pan India",
+			"logoPath": "https://img.naukimg.com/logo_images/groups/v1/125596.gif",
+			"logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/125596.gif",
+			"jobId": "070723003538",
+			"currency": "INR",
+			"footerPlaceholderLabel": "1 Day Ago",
+			"footerPlaceholderColor": "green",
+			"companyName": "Trigent Software",
+			"isSaved": false,
+			"tagsAndSkills": "DevOps Engineer,GCP DevOps,Kubernates,Devops,Pan,Job Description,GCP",
+			"placeholders": [
+				{
+					"type": "experience",
+					"label": "10-12 Yrs"
+				},
+				{
+					"type": "salary",
+					"label": "Not disclosed"
+				},
+				{
+					"type": "location",
+					"label": "Remote"
+				}
+			],
+			"companyId": 728545,
+			"jdURL": "/job-listings-description-principal-devops-engineer-pan-india-trigent-software-bangalore-bengaluru-10-to-12-years-070723003538",
+			"staticUrl": "trigent-jobs-careers-166616",
+			"ambitionBoxData": {
+				"Url": "https://www.ambitionbox.com/reviews/trigent-software-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+				"ReviewsCount": 327,
+				"AggregateRating": "3.8",
+				"Title": "Trigent Software Reviews by Employees"
+			},
+			"jobDescription": "Must have 5+ years of work experience using public cloud Infrastructure provisioning <br><br> Principal DevOps Engineer : Experience : 10+ Years<br><br>Experience<br><br>Overall 10+ Experience in Azure / GCP Cloud design concepts (e.g<br><br>GCP experience is highly desired<br><br> . 5+ years Hands on experience with setup of Gitlab or Jenkins CI / CD pipeline with",
+			"showMultipleApply": false,
+			"groupId": 125596,
+			"isTopGroup": 0,
+			"createdDate": 1688734972563,
+			"mode": "jp"
+		},
+		{
+			"title": "UI/UX Developer / Lead",
+			"logoPath": "https://www.naukri.com/hotjobs/images/v3/allegis_nov13.gif",
+			"logoPathV3": "https://www.naukri.com/hotjobs/images/v3/allegis_nov13.gif",
+			"jobId": "060723009984",
+			"currency": "INR",
+			"footerPlaceholderLabel": "2 Days Ago",
+			"footerPlaceholderColor": "grey",
+			"companyName": "Allegis Group",
+			"isSaved": false,
+			"tagsAndSkills": "Ui/Ux,ui development,React.Js,Development,UI,UX,AWS,Java",
+			"placeholders": [
+				{
+					"type": "experience",
+					"label": "10-15 Yrs"
+				},
+				{
+					"type": "salary",
+					"label": "Not disclosed"
+				},
+				{
+					"type": "location",
+					"label": "Remote"
+				}
+			],
+			"companyId": 10698,
+			"jdURL": "/job-listings-ui-ux-developer-lead-allegis-group-bangalore-bengaluru-10-to-15-years-060723009984",
+			"staticUrl": "allegis-group-jobs-careers-10698",
+			"jobDescription": "Experience: 9 to 16 Years.",
+			"showMultipleApply": false,
+			"groupId": 2861454,
+			"isTopGroup": 0,
+			"createdDate": 1688661613780,
+			"mode": "jp"
+		},
+		{
+			"title": "Web Method Developer",
+			"logoPath": "https://img.naukimg.com/logo_images/groups/v1/2114.gif",
+			"logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/2114.gif",
+			"jobId": "060723005202",
+			"currency": "INR",
+			"footerPlaceholderLabel": "2 Days Ago",
+			"footerPlaceholderColor": "grey",
+			"companyName": "Tech Mahindra",
+			"isSaved": false,
+			"tagsAndSkills": "java,webmethods,jdbc,Integration Server,Trading Networks,Broker,FTP,Networking",
+			"placeholders": [
+				{
+					"type": "experience",
+					"label": "5-9 Yrs"
+				},
+				{
+					"type": "salary",
+					"label": "15-30 Lacs PA"
+				},
+				{
+					"type": "location",
+					"label": "Remote"
+				}
+			],
+			"companyId": 3266166,
+			"jdURL": "/job-listings-web-method-developer-tech-mahindra-bangalore-bengaluru-karnataka-5-to-9-years-060723005202",
+			"staticUrl": "tech-mahindra-jobs-careers-1066",
+			"ambitionBoxData": {
+				"Url": "https://www.ambitionbox.com/reviews/tech-mahindra-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+				"ReviewsCount": 22695,
+				"AggregateRating": "3.7",
+				"Title": "Tech Mahindra Reviews by Employees"
+			},
+			"jobDescription": "Required Technical Skill Set webMethods. Desired Experience Range 5 8 years<br><br>Experience in at least one of the following versions required - x. and above <br><br>Knowledge of Unix and scripting required <br><br>Experience in Flat files and XML standards <br><br>Experience in communication protocols like FTP,SFTP etc",
+			"showMultipleApply": false,
+			"groupId": 2114,
+			"isTopGroup": 0,
+			"createdDate": 1688627157115,
+			"mode": "jp"
+		},
+		{
+			"title": "MHLS Administrator, BEN - Work from Home /Remote opportunity",
+			"logoPath": "https://www.naukri.com/hotjobs/images/v3/amazon.gif",
+			"logoPathV3": "https://www.naukri.com/hotjobs/images/v3/amazon.gif",
+			"jobId": "300623005538",
+			"currency": "INR",
+			"footerPlaceholderLabel": "8 Days Ago",
+			"footerPlaceholderColor": "grey",
+			"companyName": "Amazon",
+			"isSaved": false,
+			"tagsAndSkills": "Escalation Management,Customer Service,problem solving,Voice Process,international voice process,Voice,Operations,Bpo voice",
+			"placeholders": [
+				{
+					"type": "experience",
+					"label": "0-5 Yrs"
+				},
+				{
+					"type": "salary",
+					"label": "Not disclosed"
+				},
+				{
+					"type": "location",
+					"label": "Remote"
+				}
+			],
+			"companyId": 194374,
+			"jdURL": "/job-listings-mhls-administrator-ben-work-from-home-remote-opportunity-amazon-bangalore-bengaluru-karnataka-0-to-5-years-300623005538",
+			"staticUrl": "amazon-jobs-careers-93000",
+			"ambitionBoxData": {
+				"Url": "https://www.ambitionbox.com/reviews/amazon-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+				"ReviewsCount": 16611,
+				"AggregateRating": "4.2",
+				"Title": "Amazon Reviews by Employees"
+			},
+			"jobDescription": "<p> </p><p><strong>Job Title:</strong> MHLS Administrator, BEN</p><br /><p><strong>This is a work from home role. </strong></p><br /><p>Join Amazon's My HR Live Support (MHLS) Benefits team and help make a difference for all Amazonians! The MHLS team provides HR assistance to Amazon employees in the form of accurate, consistent and timely responses to inquiries from various contact channels - phone, chats and HR cases. </p><br /><p>MHLS Benefits Administrator manages their workload effectively to meet SLAs and productivity goals. They use high judgment, critical thinking and rationale to balance process adherence with employee's needs. They resolve inquiries holistically by referring to available documentation such as frequently asked questions, knowledge base articles, and standard operating procedures - escalating when these cannot be resolved. They respond to employee impacting issues that may arise during the benefits event and ensure that proper communication and documentation occurs, even when information is limited. A MHLS Benefits Administrator consistently consults and collaborates with partner teams on process changes in an effort to resolve cross-functional issues to update and improve policies </p><br /><p><strong>Basic Qualifications.</strong></p><br /><ul><li><strong>Must have Bachelor's Degree or Master's degree</strong></li><li>1-10+ years' experience in contact center, customer service, human resources or equivalent experience.</li><li>Fluent communication and writing skills in English (+85%). - Schedule flexibility (support a 24x7 operations).</li><li>Experience dealing with customers and exceptional use of empathy skills.</li></ul><br /><p> </p><p><strong>Preferred Qualifications</strong>  </p><ul><li>Experience in contact center, customer service, human resources or equivalent experience.</li><li>2+ years of experience working in Benefits and/or Human resources (preferably in a contact center or shared service environment)</li><li>Experience in providing consultation and guidance on human resources, benefits, or complex employee matters.</li><li>Proven ability to adjust to constantly changing workloads and manage customer contacts in a fast pace environment.</li><li>Ability to manage confidential and sensitive employee information and adhere to strict data privacy standards.</li><li>Detail oriented with ability to analyze, problem solve, organize and manage multiple priorities.</li></ul><br /><p><strong>Job location:Remote/Work from home</strong></p><p><strong>Shifts:</strong> Rotational (it is a 24*7 shift environment and shifts are rotational, changes every 3-4 months')</p><p><strong>Weekly Off:</strong> Rotational two consecutive day off (it is a 5-day working week with 2 consecutive days off. The off days may change every 3-4 months)</p><br />",
+			"showMultipleApply": false,
+			"groupId": 398058,
+			"isTopGroup": 0,
+			"createdDate": 1688121865999,
+			"mode": "jp"
+		},
+		{
+			"title": "Content Moderation - NonVoice - BPO -  Freshers - Work from Home",
+			"logoPath": "https://img.naukimg.com/logo_images/groups/v1/1422.gif",
+			"logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/1422.gif",
+			"jobId": "290623005941",
+			"currency": "INR",
+			"footerPlaceholderLabel": "9 Days Ago",
+			"footerPlaceholderColor": "grey",
+			"companyName": "Randstad",
+			"isSaved": false,
+			"tagsAndSkills": "BPO,Moderation,Content,Non voice,Communication skills,Voice",
+			"placeholders": [
+				{
+					"type": "experience",
+					"label": "0-1 Yrs"
+				},
+				{
+					"type": "salary",
+					"label": "Not disclosed"
+				},
+				{
+					"type": "location",
+					"label": "Remote"
+				}
+			],
+			"companyId": 717,
+			"jdURL": "/job-listings-content-moderation-nonvoice-bpo-freshers-work-from-home-randstad-bangalore-bengaluru-0-to-1-years-290623005941",
+			"staticUrl": "randstad-jobs-careers-717",
+			"jobDescription": "<p>Process: Non-Voice - BPO </p><p><strong>Location: All over India</strong></p><p>Mandatory Skill: Excellent Communication </p><p>Work Mode: Work from Home </p><p>Shift: 24*7/Rotational shifts(including night) and Rotational Week Offs</p><p><br /><strong>ROLE DESCRIPTION:</strong> </p><br /><ul><li>Check the images, and match them with the website</li><li>Verify the content with website</li><li>Understanding sensitive content</li><li>View the content, check the Brand Name and Website, Check if Non-Family safe content, and rate the content. etc'</li></ul><br /><p><strong>EDUCATION QUALIFICATION: </strong></p><br /><p>Any UG or PG (Only graduated candidates)</p><p>Exclude candidates Pursuing graduation/ Awaiting results</p><p>Note- We can consider 2023 passed out with 5 semesters mark sheet + 6th sem result in internet copy attested. </p><br /><br /><br /><br />",
+			"showMultipleApply": false,
+			"groupId": 1422,
+			"isTopGroup": 0,
+			"createdDate": 1688030265241,
+			"mode": "jp"
+		},
+		{
+			"title": "Urgent opening For Freshers_ Work from Home Completely",
+			"logoPath": "https://img.naukimg.com/logo_images/groups/v1/1422.gif",
+			"logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/1422.gif",
+			"jobId": "290623005432",
+			"currency": "INR",
+			"footerPlaceholderLabel": "9 Days Ago",
+			"footerPlaceholderColor": "grey",
+			"companyName": "Randstad",
+			"isSaved": false,
+			"tagsAndSkills": "Communication skills,Voice process,Non voice process,Voice,Good English Communication,Process,Non voice,English",
+			"placeholders": [
+				{
+					"type": "experience",
+					"label": "0-1 Yrs"
+				},
+				{
+					"type": "salary",
+					"label": "Not disclosed"
+				},
+				{
+					"type": "location",
+					"label": "Remote"
+				}
+			],
+			"companyId": 717,
+			"jdURL": "/job-listings-urgent-opening-for-freshers-work-from-home-completely-randstad-bangalore-bengaluru-0-to-1-years-290623005432",
+			"staticUrl": "randstad-jobs-careers-717",
+			"jobDescription": "<p> Hi ,<br />Greetings of the day !!<br />As discussed, please find the below Job Details-<br /><strong>Company-                     IT MNC</strong><br /><strong>Mode of employment-  Full time role</strong><br /><strong>Educational Qualification-  Any Graduate </strong><br /><strong>Shift-      24*7/Rotational Shifts & Rotational Week Offs</strong><br /><strong>Experience-   0 to 11 months exp only</strong><br /><strong>Location-  Work from home completely</strong><br /><br /><strong>Benefits-</strong></p><ol type=\"1\"><li><strong> Internet Reimbursement will be provided</strong></li><li><strong> Night Shift allowance will be provided</strong></li></ol><p><strong><u>Total Round of interviews:</u></strong> <br /><br />*HR Screening*OPS L1*OPS L2*Written Assessment - Versant Writing (Pass score 60).<br /><br /><strong>Job Description-</strong><br />Role- Content Review/Content Moderation/Content Curation<br /><br /><br />*check the images, match with the website*Verify the content with website*Understanding sensitive content*View the content, check the Brand Name and Website, Check if Non Family safe content, rate the content. etc'</p><br /><p><strong>Candidate should have basic knowledge on following topic before they appear for OPS round - Topics such as Google, Google Products, Digital Marketing, Content Review, Sensitive Content & okay to work for Sensitive Content.</strong><br /><br /><strong>Kindly acknowledge the email as your confirmation.</strong> </p><br /><p>Best Regards,Shweta Gour</p><p>Specialist- IT Recruiter</p><p><strong>Randstad India Private Ltd.</strong></p><p>shweta.g@randstad.in<br /></p><p>www.randstad.in</p>",
+			"showMultipleApply": false,
+			"groupId": 1422,
+			"isTopGroup": 0,
+			"createdDate": 1688026229338,
+			"mode": "jp"
+		},
+		{
+			"title": "Process Executive",
+			"logoPath": "https://img.naukimg.com/logo_images/groups/v1/1422.gif",
+			"logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/1422.gif",
+			"jobId": "290623004495",
+			"currency": "INR",
+			"footerPlaceholderLabel": "9 Days Ago",
+			"footerPlaceholderColor": "grey",
+			"companyName": "Randstad",
+			"isSaved": false,
+			"tagsAndSkills": "Content Review,Annotation,Labels,Content Curation,Moderation,Review,Process,Content",
+			"placeholders": [
+				{
+					"type": "experience",
+					"label": "0-0 Yrs"
+				},
+				{
+					"type": "salary",
+					"label": "50,000-2.25 Lacs PA"
+				},
+				{
+					"type": "location",
+					"label": "Remote"
+				}
+			],
+			"companyId": 717,
+			"jdURL": "/job-listings-process-executive-randstad-bangalore-bengaluru-0-to-0-years-290623004495",
+			"staticUrl": "randstad-jobs-careers-717",
+			"jobDescription": "Any UG or PG (Only graduated candidates)<br><br>Note- We can consider 2023 passed out with 5 semesters mark sheet + 6th sem result internet copy attested<br><br>Candidate should have basic knowledge on the following topics before they appear for OPS round - Topics such as Google,Google Products,Digital Marketing,Content Review,Sensitive Content & okay to work for Sensitive Content",
+			"showMultipleApply": false,
+			"groupId": 1422,
+			"isTopGroup": 0,
+			"createdDate": 1688021134205,
+			"mode": "jp"
+		},
+		{
+			"title": "Process Executive",
+			"logoPath": "https://img.naukimg.com/logo_images/groups/v1/1422.gif",
+			"logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/1422.gif",
+			"jobId": "290623004229",
+			"currency": "INR",
+			"footerPlaceholderLabel": "9 Days Ago",
+			"footerPlaceholderColor": "grey",
+			"companyName": "Randstad",
+			"isSaved": false,
+			"tagsAndSkills": "Good Communication In English,Bpo Non Voice,Content Review,BPO,Process,Review,English,Voice",
+			"placeholders": [
+				{
+					"type": "experience",
+					"label": "0-0 Yrs"
+				},
+				{
+					"type": "salary",
+					"label": "50,000-2.25 Lacs PA"
+				},
+				{
+					"type": "location",
+					"label": "Remote"
+				}
+			],
+			"companyId": 717,
+			"jdURL": "/job-listings-process-executive-randstad-bangalore-bengaluru-0-to-0-years-290623004229",
+			"staticUrl": "randstad-jobs-careers-717",
+			"jobDescription": "Any UG or PG (Only graduated candidates)<br><br>Note- We can consider 2023 passed out with 5 semesters mark sheet + 6th sem result internet copy attested<br><br>Candidate should have basic knowledge on the following topics before they appear for OPS round - Topics such as Google,Google Products,Digital Marketing,Content Review,Sensitive Content & okay to work for Sensitive Content",
+			"showMultipleApply": false,
+			"groupId": 1422,
+			"isTopGroup": 0,
+			"createdDate": 1688019623927,
+			"mode": "jp"
+		},
+		{
+			"title": "Hiring For Content reviewer",
+			"logoPath": "https://img.naukimg.com/logo_images/groups/v1/1422.gif",
+			"logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/1422.gif",
+			"jobId": "290623003342",
+			"currency": "INR",
+			"footerPlaceholderLabel": "9 Days Ago",
+			"footerPlaceholderColor": "grey",
+			"companyName": "Randstad",
+			"isSaved": false,
+			"tagsAndSkills": "content moderation,Content Curation,Content Review,non voice,communication skills,Moderation,Hiring,Voice",
+			"placeholders": [
+				{
+					"type": "experience",
+					"label": "0-1 Yrs"
+				},
+				{
+					"type": "salary",
+					"label": "Not disclosed"
+				},
+				{
+					"type": "location",
+					"label": "Remote"
+				}
+			],
+			"companyId": 717,
+			"jdURL": "/job-listings-hiring-for-content-reviewer-randstad-bangalore-bengaluru-0-to-1-years-290623003342",
+			"staticUrl": "randstad-jobs-careers-717",
+			"jobDescription": "Client - Top MNC. Job Type - Full Time. Level - Process Executive Voice. Job Process - Non Voice BPO. Role - Content Review / Content Moderation / Content Curation. <br><br>Shift - 24*7 / Rotational Shifts & Rotational Week Offs<br><br>Experience - 0 to 11 months exp only",
+			"showMultipleApply": false,
+			"groupId": 1422,
+			"isTopGroup": 0,
+			"createdDate": 1688013090388,
+			"mode": "jp"
+		},
+		{
+			"title": "Tech Mahindra Is Hiring Customer Service Associates - Remote",
+			"logoPath": "https://img.naukimg.com/logo_images/groups/v1/2114.gif",
+			"logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/2114.gif",
+			"jobId": "270623006826",
+			"currency": "INR",
+			"footerPlaceholderLabel": "11 Days Ago",
+			"footerPlaceholderColor": "grey",
+			"companyName": "Tech Mahindra",
+			"isSaved": false,
+			"tagsAndSkills": "Malayalam,Customer service,Remote,Hiring,Technical analysis",
+			"placeholders": [
+				{
+					"type": "experience",
+					"label": "0-2 Yrs"
+				},
+				{
+					"type": "salary",
+					"label": "2.25-3.5 Lacs PA"
+				},
+				{
+					"type": "location",
+					"label": "Remote"
+				}
+			],
+			"companyId": 3266166,
+			"jdURL": "/job-listings-tech-mahindra-is-hiring-customer-service-associates-remote-tech-mahindra-bangalore-bengaluru-0-to-2-years-270623006826",
+			"staticUrl": "tech-mahindra-jobs-careers-1066",
+			"ambitionBoxData": {
+				"Url": "https://www.ambitionbox.com/reviews/tech-mahindra-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+				"ReviewsCount": 22695,
+				"AggregateRating": "3.7",
+				"Title": "Tech Mahindra Reviews by Employees"
+			},
+			"jobDescription": "Should be comfortable working in rotational shifts (24*7) <br><br> Undergraduate / Graduate with or without work experience <br><br>Should possess excellent Voice Communication skills in Malayalam - Mandatory <br><br>Maintain good customer relations",
+			"showMultipleApply": false,
+			"groupId": 2114,
+			"isTopGroup": 0,
+			"createdDate": 1687860860057,
+			"mode": "jp"
+		},
+		{
+			"title": "MHLS Senior Associate - Work from Home opportunity",
+			"logoPath": "https://img.naukimg.com/logo_images/groups/v1/398058.gif",
+			"logoPathV3": "https://img.naukimg.com/logo_images/groups/v1/398058.gif",
+			"jobId": "220623007194",
+			"currency": "INR",
+			"footerPlaceholderLabel": "16 Days Ago",
+			"footerPlaceholderColor": "grey",
+			"companyName": "Amazon",
+			"isSaved": false,
+			"tagsAndSkills": "Escalation Management,Customer Service,international voice process,problem solving,Voice Process,Escalations,BPO,International voice",
+			"placeholders": [
+				{
+					"type": "experience",
+					"label": "0-5 Yrs"
+				},
+				{
+					"type": "salary",
+					"label": "Not disclosed"
+				},
+				{
+					"type": "location",
+					"label": "Remote"
+				}
+			],
+			"companyId": 194374,
+			"jdURL": "/job-listings-mhls-senior-associate-work-from-home-opportunity-amazon-hyderabad-secunderabad-telangana-0-to-5-years-220623007194",
+			"staticUrl": "amazon-jobs-careers-93000",
+			"ambitionBoxData": {
+				"Url": "https://www.ambitionbox.com/reviews/amazon-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri",
+				"ReviewsCount": 16611,
+				"AggregateRating": "4.2",
+				"Title": "Amazon Reviews by Employees"
+			},
+			"jobDescription": "<p>We are looking for a dynamic, organized self-starter to join our team located in Bangalore. The Employee Resource Center (ERC) Sr. associate will work closely with the ERC team in the US to provide a variety of HR services to North American Employees. We have an immediate need for dedicated professionals to join ERC in their HR Contact Center. Be the voice of ERC, as the first point of contact for Employees, Managers and the HR community. Deliver highest standards of service in any customer interaction and ensuring an accurate, efficient & personalized resolution of queries through effective usage of systems, tools & resources.</p><p><strong>Roles and Responsibilities: </strong></p><p><strong>This includes, but is not limited to: </strong><br /> </p><p>. Receive & log all queries received through phone & email in Panorama / Trouble Ticketing tool</p><ul><li>Responsible to work on Panorama/Ticketing tools to resolve the queries received from the employee</li><li>Responding to inquiries regarding policies and programs including benefits, attendance, payroll deductions, etc.</li><li>Adhere to defined processes and ensure delivery in accordance with set quality standards</li><li>Thorough knowledge of policies & processes for multiple Customers group</li><li>Ensure the Service level are achieved at all times for HRS processes</li><li>Innovative with a commitment to change and process improvement applying KAIZEN and LEAN methodologies</li><li>Integrity and discretion in dealing with sensitive information and ensure data privacy at all times</li><li>Take ownership for query resolution and individual metric </li></ul><p><strong>Basic Qualifications</strong><br /> * A bachelor's degree (Completed); master's degree a plus.<br /> * Minimum of 0-10 years of experience in international voice process<br /> * Willingness to work in phone support environment<br /> * Willingness to work in 24*7 support process including night shifts<br /> * Strong attention to detail and good interpersonal skills<br /> * Strong decision making and problem solving skills<br /> * Ability to multi-task and agility to change in fast-paced dynamic environment<br /> * Proficient with MS Excel, Word, email writing<br /> * Application of Phone and email etiquettes in customer interactions</p><p><strong>Preferred Qualifications </strong> </p><ul><li>Experience in handling HR help desk <br />      * Experience in HR/HR shared services<br />      * Experience in People Portal<br />      * Knowledge of Six Sigma methodology and tools</li></ul><p><strong>Domestic Relocation Provided:  </strong>No</p><p><strong>Shifts: </strong>Rotational (it is a 24*7 shift environment and shifts are rotational, changes every 3-4 months')</p><p><strong>Weekly Off: </strong>Rotational two consecutive day off (it is a 5-day working week with 2 consecutive days off. The off days may change every 3-4 months)</p>",
+			"showMultipleApply": false,
+			"groupId": 398058,
+			"isTopGroup": 0,
+			"createdDate": 1687429938030,
+			"mode": "jp"
+		},
+		{
+			"title": "ServiceNow CMDB Developer -  MNC - Direct Payroll",
+			"logoPath": "https://www.naukri.com/hotjobs/images/v3/allegis_nov13.gif",
+			"logoPathV3": "https://www.naukri.com/hotjobs/images/v3/allegis_nov13.gif",
+			"jobId": "240523004493",
+			"currency": "INR",
+			"footerPlaceholderLabel": "3 Days Ago",
+			"footerPlaceholderColor": "grey",
+			"companyName": "Allegis Group",
+			"isSaved": false,
+			"tagsAndSkills": "Servicenow,CMDB,Servicenow Itsm,Incident,ITSM,Integration,Servicenow Development,Direct",
+			"placeholders": [
+				{
+					"type": "experience",
+					"label": "6-10 Yrs"
+				},
+				{
+					"type": "salary",
+					"label": "Not disclosed"
+				},
+				{
+					"type": "location",
+					"label": "Remote"
+				}
+			],
+			"companyId": 10698,
+			"jdURL": "/job-listings-servicenow-cmdb-developer-mnc-direct-payroll-allegis-group-bangalore-bengaluru-6-to-10-years-240523004493",
+			"staticUrl": "allegis-group-jobs-careers-10698",
+			"jobDescription": "Location: Bangalore / Chennai / Hyderabad . Notice Period: 0 to 30 Days Only. Mode of Interview: MS Teams<br><br>Experience: 6 to 9 Years. <br><br>Experience in Integrations<br><br>Experience in Mobile Application Development",
+			"showMultipleApply": false,
+			"groupId": 2861454,
+			"isTopGroup": 0,
+			"createdDate": 1688557659497,
+			"mode": "jp"
+		},
+		{
+			"title": "Mainframe Assembler",
+			"logoPath": "https://www.naukri.com/hotjobs/images/v3/allegis_nov13.gif",
+			"logoPathV3": "https://www.naukri.com/hotjobs/images/v3/allegis_nov13.gif",
+			"jobId": "240423002571",
+			"currency": "INR",
+			"footerPlaceholderLabel": "2 Days Ago",
+			"footerPlaceholderColor": "grey",
+			"companyName": "Allegis Group",
+			"isSaved": false,
+			"tagsAndSkills": "Mainframe Assembler,Assembler,VSAM,DBMS,Cobol,Mainframes,Assembly,Assembling",
+			"placeholders": [
+				{
+					"type": "experience",
+					"label": "7-12 Yrs"
+				},
+				{
+					"type": "salary",
+					"label": "Not disclosed"
+				},
+				{
+					"type": "location",
+					"label": "Remote"
+				}
+			],
+			"companyId": 10698,
+			"jdURL": "/job-listings-mainframe-assembler-allegis-group-bangalore-bengaluru-7-to-12-years-240423002571",
+			"staticUrl": "allegis-group-jobs-careers-10698",
+			"jobDescription": "Experience: 6 to 16 Years.",
+			"showMultipleApply": false,
+			"groupId": 2861454,
+			"isTopGroup": 0,
+			"createdDate": 1688660370848,
+			"mode": "jp"
+		},
+		{
+			"title": "Sap Solman Consultant",
+			"logoPath": "https://www.naukri.com/hotjobs/images/v3/allegis_nov13.gif",
+			"logoPathV3": "https://www.naukri.com/hotjobs/images/v3/allegis_nov13.gif",
+			"jobId": "200423005708",
+			"currency": "INR",
+			"footerPlaceholderLabel": "2 Days Ago",
+			"footerPlaceholderColor": "grey",
+			"companyName": "Allegis Group",
+			"isSaved": false,
+			"tagsAndSkills": "Sap Solman,SAP Solution Manager,Solman,SAP,Documentation,Management,Consulting,Saps",
+			"placeholders": [
+				{
+					"type": "experience",
+					"label": "10-16 Yrs"
+				},
+				{
+					"type": "salary",
+					"label": "Not disclosed"
+				},
+				{
+					"type": "location",
+					"label": "Remote"
+				}
+			],
+			"companyId": 10698,
+			"jdURL": "/job-listings-sap-solman-consultant-allegis-group-bangalore-bengaluru-10-to-16-years-200423005708",
+			"staticUrl": "allegis-group-jobs-careers-10698",
+			"jobDescription": "Total Years Exp : Exp in relevant: Updated CV: Current Location: Preferred Location: Current Company: Current CTC: Expected CTC: Highest Qualification : Notice period:  . More than 8 years of experience working on SAP SolMan<br><br>Required hands-on experience and knowledge for following SolMan modules<br><br>Experience: 9 to 15 Years",
+			"showMultipleApply": false,
+			"groupId": 2861454,
+			"isTopGroup": 0,
+			"createdDate": 1688660447444,
+			"mode": "jp"
+		}
+	],
+	"fatFooter": [
+		{
+			"tab": "Bangalore",
+			"highlight": false,
+			"urlSet": [
+				{
+					"text": "Support Jobs In Bangalore",
+					"url": "https://www.naukri.com/support-jobs-in-bangalore"
+				},
+				{
+					"text": "Infrastructure Jobs In Bangalore",
+					"url": "https://www.naukri.com/infrastructure-jobs-in-bangalore"
+				},
+				{
+					"text": "Desktop Jobs In Bangalore",
+					"url": "https://www.naukri.com/desktop-jobs-in-bangalore"
+				},
+				{
+					"text": "Remote Support Jobs In Bangalore",
+					"url": "https://www.naukri.com/remote-support-jobs-in-bangalore"
+				},
+				{
+					"text": "Troubleshooting Jobs In Bangalore",
+					"url": "https://www.naukri.com/troubleshooting-jobs-in-bangalore"
+				},
+				{
+					"text": "Technical Support Jobs In Bangalore",
+					"url": "https://www.naukri.com/technical-support-jobs-in-bangalore"
+				},
+				{
+					"text": "Server Jobs In Bangalore",
+					"url": "https://www.naukri.com/server-jobs-in-bangalore"
+				},
+				{
+					"text": "Network Jobs In Bangalore",
+					"url": "https://www.naukri.com/network-jobs-in-bangalore"
+				},
+				{
+					"text": "Itil Jobs In Bangalore",
+					"url": "https://www.naukri.com/itil-jobs-in-bangalore"
+				},
+				{
+					"text": "Windows Jobs In Bangalore",
+					"url": "https://www.naukri.com/windows-jobs-in-bangalore"
+				}
+			]
+		},
+		{
+			"tab": "Delhi NCR",
+			"highlight": false,
+			"urlSet": [
+				{
+					"text": "Support Jobs In Delhi NCR",
+					"url": "https://www.naukri.com/support-jobs-in-delhi-ncr"
+				},
+				{
+					"text": "Infrastructure Jobs In Delhi NCR",
+					"url": "https://www.naukri.com/infrastructure-jobs-in-delhi-ncr"
+				},
+				{
+					"text": "Desktop Jobs In Delhi NCR",
+					"url": "https://www.naukri.com/desktop-jobs-in-delhi-ncr"
+				},
+				{
+					"text": "Remote Support Jobs In Delhi NCR",
+					"url": "https://www.naukri.com/remote-support-jobs-in-delhi-ncr"
+				},
+				{
+					"text": "Troubleshooting Jobs In Delhi NCR",
+					"url": "https://www.naukri.com/troubleshooting-jobs-in-delhi-ncr"
+				},
+				{
+					"text": "Technical Support Jobs In Delhi NCR",
+					"url": "https://www.naukri.com/technical-support-jobs-in-delhi-ncr"
+				},
+				{
+					"text": "Server Jobs In Delhi NCR",
+					"url": "https://www.naukri.com/server-jobs-in-delhi-ncr"
+				},
+				{
+					"text": "Network Jobs In Delhi NCR",
+					"url": "https://www.naukri.com/network-jobs-in-delhi-ncr"
+				},
+				{
+					"text": "Itil Jobs In Delhi NCR",
+					"url": "https://www.naukri.com/itil-jobs-in-delhi-ncr"
+				},
+				{
+					"text": "Windows Jobs In Delhi NCR",
+					"url": "https://www.naukri.com/windows-jobs-in-delhi-ncr"
+				}
+			]
+		},
+		{
+			"tab": "Hyderabad Secunderabad",
+			"highlight": false,
+			"urlSet": [
+				{
+					"text": "Support Jobs In Hyderabad Secunderabad",
+					"url": "https://www.naukri.com/support-jobs-in-hyderabad-secunderabad"
+				},
+				{
+					"text": "Infrastructure Jobs In Hyderabad Secunderabad",
+					"url": "https://www.naukri.com/infrastructure-jobs-in-hyderabad-secunderabad"
+				},
+				{
+					"text": "Desktop Jobs In Hyderabad Secunderabad",
+					"url": "https://www.naukri.com/desktop-jobs-in-hyderabad-secunderabad"
+				},
+				{
+					"text": "Remote Support Jobs In Hyderabad Secunderabad",
+					"url": "https://www.naukri.com/remote-support-jobs-in-hyderabad-secunderabad"
+				},
+				{
+					"text": "Troubleshooting Jobs In Hyderabad Secunderabad",
+					"url": "https://www.naukri.com/troubleshooting-jobs-in-hyderabad-secunderabad"
+				},
+				{
+					"text": "Technical Support Jobs In Hyderabad Secunderabad",
+					"url": "https://www.naukri.com/technical-support-jobs-in-hyderabad-secunderabad"
+				},
+				{
+					"text": "Server Jobs In Hyderabad Secunderabad",
+					"url": "https://www.naukri.com/server-jobs-in-hyderabad-secunderabad"
+				},
+				{
+					"text": "Network Jobs In Hyderabad Secunderabad",
+					"url": "https://www.naukri.com/network-jobs-in-hyderabad-secunderabad"
+				},
+				{
+					"text": "Itil Jobs In Hyderabad Secunderabad",
+					"url": "https://www.naukri.com/itil-jobs-in-hyderabad-secunderabad"
+				},
+				{
+					"text": "Windows Jobs In Hyderabad Secunderabad",
+					"url": "https://www.naukri.com/windows-jobs-in-hyderabad-secunderabad"
+				}
+			]
+		},
+		{
+			"tab": "Mumbai",
+			"highlight": false,
+			"urlSet": [
+				{
+					"text": "Support Jobs In Mumbai",
+					"url": "https://www.naukri.com/support-jobs-in-mumbai"
+				},
+				{
+					"text": "Infrastructure Jobs In Mumbai",
+					"url": "https://www.naukri.com/infrastructure-jobs-in-mumbai"
+				},
+				{
+					"text": "Desktop Jobs In Mumbai",
+					"url": "https://www.naukri.com/desktop-jobs-in-mumbai"
+				},
+				{
+					"text": "Remote Support Jobs In Mumbai",
+					"url": "https://www.naukri.com/remote-support-jobs-in-mumbai"
+				},
+				{
+					"text": "Troubleshooting Jobs In Mumbai",
+					"url": "https://www.naukri.com/troubleshooting-jobs-in-mumbai"
+				},
+				{
+					"text": "Technical Support Jobs In Mumbai",
+					"url": "https://www.naukri.com/technical-support-jobs-in-mumbai"
+				},
+				{
+					"text": "Server Jobs In Mumbai",
+					"url": "https://www.naukri.com/server-jobs-in-mumbai"
+				},
+				{
+					"text": "Network Jobs In Mumbai",
+					"url": "https://www.naukri.com/network-jobs-in-mumbai"
+				},
+				{
+					"text": "Itil Jobs In Mumbai",
+					"url": "https://www.naukri.com/itil-jobs-in-mumbai"
+				},
+				{
+					"text": "Windows Jobs In Mumbai",
+					"url": "https://www.naukri.com/windows-jobs-in-mumbai"
+				}
+			]
+		},
+		{
+			"tab": "Chennai",
+			"highlight": false,
+			"urlSet": [
+				{
+					"text": "Support Jobs In Chennai",
+					"url": "https://www.naukri.com/support-jobs-in-chennai"
+				},
+				{
+					"text": "Infrastructure Jobs In Chennai",
+					"url": "https://www.naukri.com/infrastructure-jobs-in-chennai"
+				},
+				{
+					"text": "Desktop Jobs In Chennai",
+					"url": "https://www.naukri.com/desktop-jobs-in-chennai"
+				},
+				{
+					"text": "Remote Support Jobs In Chennai",
+					"url": "https://www.naukri.com/remote-support-jobs-in-chennai"
+				},
+				{
+					"text": "Troubleshooting Jobs In Chennai",
+					"url": "https://www.naukri.com/troubleshooting-jobs-in-chennai"
+				},
+				{
+					"text": "Technical Support Jobs In Chennai",
+					"url": "https://www.naukri.com/technical-support-jobs-in-chennai"
+				},
+				{
+					"text": "Server Jobs In Chennai",
+					"url": "https://www.naukri.com/server-jobs-in-chennai"
+				},
+				{
+					"text": "Network Jobs In Chennai",
+					"url": "https://www.naukri.com/network-jobs-in-chennai"
+				},
+				{
+					"text": "Itil Jobs In Chennai",
+					"url": "https://www.naukri.com/itil-jobs-in-chennai"
+				},
+				{
+					"text": "Windows Jobs In Chennai",
+					"url": "https://www.naukri.com/windows-jobs-in-chennai"
+				}
+			]
+		},
+		{
+			"tab": "Pune",
+			"highlight": false,
+			"urlSet": [
+				{
+					"text": "Support Jobs In Pune",
+					"url": "https://www.naukri.com/support-jobs-in-pune"
+				},
+				{
+					"text": "Infrastructure Jobs In Pune",
+					"url": "https://www.naukri.com/infrastructure-jobs-in-pune"
+				},
+				{
+					"text": "Desktop Jobs In Pune",
+					"url": "https://www.naukri.com/desktop-jobs-in-pune"
+				},
+				{
+					"text": "Remote Support Jobs In Pune",
+					"url": "https://www.naukri.com/remote-support-jobs-in-pune"
+				},
+				{
+					"text": "Troubleshooting Jobs In Pune",
+					"url": "https://www.naukri.com/troubleshooting-jobs-in-pune"
+				},
+				{
+					"text": "Technical Support Jobs In Pune",
+					"url": "https://www.naukri.com/technical-support-jobs-in-pune"
+				},
+				{
+					"text": "Server Jobs In Pune",
+					"url": "https://www.naukri.com/server-jobs-in-pune"
+				},
+				{
+					"text": "Network Jobs In Pune",
+					"url": "https://www.naukri.com/network-jobs-in-pune"
+				},
+				{
+					"text": "Itil Jobs In Pune",
+					"url": "https://www.naukri.com/itil-jobs-in-pune"
+				},
+				{
+					"text": "Windows Jobs In Pune",
+					"url": "https://www.naukri.com/windows-jobs-in-pune"
+				}
+			]
+		},
+		{
+			"tab": "Kolkata",
+			"highlight": false,
+			"urlSet": [
+				{
+					"text": "Support Jobs In Kolkata",
+					"url": "https://www.naukri.com/support-jobs-in-kolkata"
+				},
+				{
+					"text": "Infrastructure Jobs In Kolkata",
+					"url": "https://www.naukri.com/infrastructure-jobs-in-kolkata"
+				},
+				{
+					"text": "Desktop Jobs In Kolkata",
+					"url": "https://www.naukri.com/desktop-jobs-in-kolkata"
+				},
+				{
+					"text": "Remote Support Jobs In Kolkata",
+					"url": "https://www.naukri.com/remote-support-jobs-in-kolkata"
+				},
+				{
+					"text": "Troubleshooting Jobs In Kolkata",
+					"url": "https://www.naukri.com/troubleshooting-jobs-in-kolkata"
+				},
+				{
+					"text": "Technical Support Jobs In Kolkata",
+					"url": "https://www.naukri.com/technical-support-jobs-in-kolkata"
+				},
+				{
+					"text": "Server Jobs In Kolkata",
+					"url": "https://www.naukri.com/server-jobs-in-kolkata"
+				},
+				{
+					"text": "Network Jobs In Kolkata",
+					"url": "https://www.naukri.com/network-jobs-in-kolkata"
+				},
+				{
+					"text": "Itil Jobs In Kolkata",
+					"url": "https://www.naukri.com/itil-jobs-in-kolkata"
+				},
+				{
+					"text": "Windows Jobs In Kolkata",
+					"url": "https://www.naukri.com/windows-jobs-in-kolkata"
+				}
+			]
+		},
+		{
+			"tab": "Ahmedabad",
+			"highlight": false,
+			"urlSet": [
+				{
+					"text": "Support Jobs In Ahmedabad",
+					"url": "https://www.naukri.com/support-jobs-in-ahmedabad"
+				},
+				{
+					"text": "Infrastructure Jobs In Ahmedabad",
+					"url": "https://www.naukri.com/infrastructure-jobs-in-ahmedabad"
+				},
+				{
+					"text": "Desktop Jobs In Ahmedabad",
+					"url": "https://www.naukri.com/desktop-jobs-in-ahmedabad"
+				},
+				{
+					"text": "Remote Support Jobs In Ahmedabad",
+					"url": "https://www.naukri.com/remote-support-jobs-in-ahmedabad"
+				},
+				{
+					"text": "Troubleshooting Jobs In Ahmedabad",
+					"url": "https://www.naukri.com/troubleshooting-jobs-in-ahmedabad"
+				},
+				{
+					"text": "Technical Support Jobs In Ahmedabad",
+					"url": "https://www.naukri.com/technical-support-jobs-in-ahmedabad"
+				},
+				{
+					"text": "Server Jobs In Ahmedabad",
+					"url": "https://www.naukri.com/server-jobs-in-ahmedabad"
+				},
+				{
+					"text": "Network Jobs In Ahmedabad",
+					"url": "https://www.naukri.com/network-jobs-in-ahmedabad"
+				},
+				{
+					"text": "Itil Jobs In Ahmedabad",
+					"url": "https://www.naukri.com/itil-jobs-in-ahmedabad"
+				},
+				{
+					"text": "Windows Jobs In Ahmedabad",
+					"url": "https://www.naukri.com/windows-jobs-in-ahmedabad"
+				}
+			]
+		},
+		{
+			"tab": "Gurgaon",
+			"highlight": false,
+			"urlSet": [
+				{
+					"text": "Support Jobs In Gurgaon",
+					"url": "https://www.naukri.com/support-jobs-in-gurgaon"
+				},
+				{
+					"text": "Infrastructure Jobs In Gurgaon",
+					"url": "https://www.naukri.com/infrastructure-jobs-in-gurgaon"
+				},
+				{
+					"text": "Desktop Jobs In Gurgaon",
+					"url": "https://www.naukri.com/desktop-jobs-in-gurgaon"
+				},
+				{
+					"text": "Remote Support Jobs In Gurgaon",
+					"url": "https://www.naukri.com/remote-support-jobs-in-gurgaon"
+				},
+				{
+					"text": "Troubleshooting Jobs In Gurgaon",
+					"url": "https://www.naukri.com/troubleshooting-jobs-in-gurgaon"
+				},
+				{
+					"text": "Technical Support Jobs In Gurgaon",
+					"url": "https://www.naukri.com/technical-support-jobs-in-gurgaon"
+				},
+				{
+					"text": "Server Jobs In Gurgaon",
+					"url": "https://www.naukri.com/server-jobs-in-gurgaon"
+				},
+				{
+					"text": "Network Jobs In Gurgaon",
+					"url": "https://www.naukri.com/network-jobs-in-gurgaon"
+				},
+				{
+					"text": "Itil Jobs In Gurgaon",
+					"url": "https://www.naukri.com/itil-jobs-in-gurgaon"
+				},
+				{
+					"text": "Windows Jobs In Gurgaon",
+					"url": "https://www.naukri.com/windows-jobs-in-gurgaon"
+				}
+			]
+		},
+		{
+			"tab": "Noida",
+			"highlight": false,
+			"urlSet": [
+				{
+					"text": "Support Jobs In Noida",
+					"url": "https://www.naukri.com/support-jobs-in-noida"
+				},
+				{
+					"text": "Infrastructure Jobs In Noida",
+					"url": "https://www.naukri.com/infrastructure-jobs-in-noida"
+				},
+				{
+					"text": "Desktop Jobs In Noida",
+					"url": "https://www.naukri.com/desktop-jobs-in-noida"
+				},
+				{
+					"text": "Remote Support Jobs In Noida",
+					"url": "https://www.naukri.com/remote-support-jobs-in-noida"
+				},
+				{
+					"text": "Troubleshooting Jobs In Noida",
+					"url": "https://www.naukri.com/troubleshooting-jobs-in-noida"
+				},
+				{
+					"text": "Technical Support Jobs In Noida",
+					"url": "https://www.naukri.com/technical-support-jobs-in-noida"
+				},
+				{
+					"text": "Server Jobs In Noida",
+					"url": "https://www.naukri.com/server-jobs-in-noida"
+				},
+				{
+					"text": "Network Jobs In Noida",
+					"url": "https://www.naukri.com/network-jobs-in-noida"
+				},
+				{
+					"text": "Itil Jobs In Noida",
+					"url": "https://www.naukri.com/itil-jobs-in-noida"
+				},
+				{
+					"text": "Windows Jobs In Noida",
+					"url": "https://www.naukri.com/windows-jobs-in-noida"
+				}
+			]
+		},
+		{
+			"tab": "All Jobs",
+			"highlight": false,
+			"urlSet": [
+				{
+					"text": "Support Jobs",
+					"url": "https://www.naukri.com/support-jobs"
+				},
+				{
+					"text": "Infrastructure Jobs",
+					"url": "https://www.naukri.com/infrastructure-jobs"
+				},
+				{
+					"text": "Desktop Jobs",
+					"url": "https://www.naukri.com/desktop-jobs"
+				},
+				{
+					"text": "Remote Support Jobs",
+					"url": "https://www.naukri.com/remote-support-jobs"
+				},
+				{
+					"text": "Troubleshooting Jobs",
+					"url": "https://www.naukri.com/troubleshooting-jobs"
+				},
+				{
+					"text": "Technical Support Jobs",
+					"url": "https://www.naukri.com/technical-support-jobs"
+				},
+				{
+					"text": "Server Jobs",
+					"url": "https://www.naukri.com/server-jobs"
+				},
+				{
+					"text": "Network Jobs",
+					"url": "https://www.naukri.com/network-jobs"
+				},
+				{
+					"text": "Itil Jobs",
+					"url": "https://www.naukri.com/itil-jobs"
+				},
+				{
+					"text": "Windows Jobs",
+					"url": "https://www.naukri.com/windows-jobs"
+				}
+			]
+		},
+		{
+			"tab": "Top Companies",
+			"highlight": false,
+			"urlSet": [
+				{
+					"text": "Randstad",
+					"url": "https://www.naukri.com/randstad-overview-1422"
+				},
+				{
+					"text": "CSG International",
+					"url": "https://www.naukri.com/csg-international-overview-1180698"
+				},
+				{
+					"text": "Datamatics",
+					"url": "https://www.naukri.com/datamatics-overview-315118"
+				},
+				{
+					"text": "Tata Capital",
+					"url": "https://www.naukri.com/tata-capital-overview-172058"
+				},
+				{
+					"text": "Rackspace Technology",
+					"url": "https://www.naukri.com/rackspace-technology-overview-3080116"
+				},
+				{
+					"text": "Paytm",
+					"url": "https://www.naukri.com/paytm-overview-144830"
+				},
+				{
+					"text": "Nagarro",
+					"url": "https://www.naukri.com/nagarro-overview-9558"
+				},
+				{
+					"text": "NTT DATA Business Solutions Private Limited",
+					"url": "https://www.naukri.com/ntt-data-business-solutions-private-limited-overview-709704"
+				},
+				{
+					"text": "Bahwan CyberTek",
+					"url": "https://www.naukri.com/bahwan-cybertek-overview-957140"
+				},
+				{
+					"text": "Replicon",
+					"url": "https://www.naukri.com/replicon-overview-4623263"
+				}
+			]
+		}
+	],
+	"suggesterModel": {
+		"qparams": {
+			"pFarea": 18
+		}
+	},
+	"seo": {
+		"title": "Remote Jobs, 14470 Remote Job Vacancies In July 2023 - Naukri.com",
+		"descp": "Apply To 14470 Remote Jobs On Naukri.com, #1 Job Portal In India. Explore Remote Job Openings In Your Desired Locations Now!"
+	},
+	"bellyFilters": {
+		"positions": [
+			7,
+			10,
+			16
+		],
+		"order": [
+			"salaryRange",
+			"citiesGid",
+			"topGroupId"
+		]
+	},
+	"sid": "16888361793868500",
+	"isLoggedIn": false,
+	"variantName": "algo4",
+	"clusterOrder": [
+		"wfhType",
+		"experience",
+		"functionalAreaGid",
+		"citiesGid",
+		"salaryRange",
+		"business_size",
+		"roleGid",
+		"glbl_RoleCat",
+		"ugCourseGid",
+		"employement",
+		"industryTypeGid",
+		"topCompanyId",
+		"topGroupId",
+		"freshness"
+	],
+	"queryParamMap": {
+		"searchType": "adv",
+		"noOfResults": 20,
+		"clusters": [
+			"wfhType"
+		],
+		"pageNo": 1,
+		"urlType": "search_by_keyword",
+		"seoKey": "remote-jobs",
+		"src": "discovery_trendingWdgt_homepage_srch",
+		"splitDate": 0,
+		"wfhType": [
+			"2"
+		]
+	},
+	"redUrl": "jobs-in-india"
+}
